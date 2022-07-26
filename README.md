@@ -16,14 +16,40 @@ It uses the following modules which can be obtained through pip <i>(pip install 
 - tkinter
 - matplotlib
 
-First extract the zip file to a folder and change the following values before running the program.
+<b>Change the following values before running the program:</b>
 
 The default username and password for the mySQL database is given as root. If this is not your username or password input the new user and pass on lines <b> 497,502,523 and 551</b>.
 
 The path for the background is currently <b>C:/CET/BackGround.png</b>, this can be changed on line <b> 445 </b>.
 
-<h2> Images </h2>
+<h2> IMAGES </h2>
+<h4> Starting Window </h4>
+
+![1](https://user-images.githubusercontent.com/74500069/180897293-7aadc5ca-d9eb-4082-aeb6-edd0399eb233.png)
+
+<br>
+<h4> Selecting an Option </h4>
+
+![6](https://user-images.githubusercontent.com/74500069/180897547-bdad455c-636b-43f4-93c6-5ab857aa5aa7.png)
+
+<h4> Graph </h4>
+
+
+![7](https://user-images.githubusercontent.com/74500069/180897576-b8c3e7ba-02d8-416b-bce1-cea04bb3e81e.png)
+
+
+<h4> Country List </h4>
+
+![8](https://user-images.githubusercontent.com/74500069/180897605-bd56ff5e-d237-47c6-b971-fb6963067fb1.png)
+
+
 
 <h2>SOURCES</h2>
 The CSV file used for providing the carbon emission values was obtained from Our World in Data(https://www.ourworldindata.org/)
+
+
+
+
+
+
 
